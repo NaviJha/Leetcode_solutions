@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/NaviJha/Leetcode_solutions/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1895-largest-magic-square](https://github.com/NaviJha/Leetcode_solutions/tree/master/1895-largest-magic-square) |
+| [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/NaviJha/Leetcode_solutions/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 ## Matrix
 |  |
 | ------- |
@@ -20,4 +21,28 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/NaviJha/Leetcode_solutions/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
+## Hash Table
+|  |
+| ------- |
+| [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/NaviJha/Leetcode_solutions/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
+## Linked List
+|  |
+| ------- |
+| [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/NaviJha/Leetcode_solutions/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/NaviJha/Leetcode_solutions/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
+## Simulation
+|  |
+| ------- |
+| [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/NaviJha/Leetcode_solutions/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/NaviJha/Leetcode_solutions/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
+## Ordered Set
+|  |
+| ------- |
+| [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/NaviJha/Leetcode_solutions/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 <!---LeetCode Topics End-->
