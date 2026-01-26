@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [1200-minimum-absolute-difference](https://github.com/NaviJha/Leetcode_solutions/tree/master/1200-minimum-absolute-difference) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/NaviJha/Leetcode_solutions/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1895-largest-magic-square](https://github.com/NaviJha/Leetcode_solutions/tree/master/1895-largest-magic-square) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/NaviJha/Leetcode_solutions/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
@@ -53,5 +54,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [1200-minimum-absolute-difference](https://github.com/NaviJha/Leetcode_solutions/tree/master/1200-minimum-absolute-difference) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/NaviJha/Leetcode_solutions/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 <!---LeetCode Topics End-->
