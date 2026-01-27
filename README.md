@@ -56,4 +56,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1200-minimum-absolute-difference](https://github.com/NaviJha/Leetcode_solutions/tree/master/1200-minimum-absolute-difference) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/NaviJha/Leetcode_solutions/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
+## Math
+|  |
+| ------- |
+| [0007-reverse-integer](https://github.com/NaviJha/Leetcode_solutions/tree/master/0007-reverse-integer) |
 <!---LeetCode Topics End-->
