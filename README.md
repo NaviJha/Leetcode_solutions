@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1895-largest-magic-square](https://github.com/NaviJha/Leetcode_solutions/tree/master/1895-largest-magic-square) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/NaviJha/Leetcode_solutions/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/NaviJha/Leetcode_solutions/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
+| [3637-trionic-array-i](https://github.com/NaviJha/Leetcode_solutions/tree/master/3637-trionic-array-i) |
 ## Matrix
 |  |
 | ------- |
