@@ -62,4 +62,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/NaviJha/Leetcode_solutions/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/NaviJha/Leetcode_solutions/tree/master/0009-palindrome-number) |
+## String
+|  |
+| ------- |
+| [1653-minimum-deletions-to-make-string-balanced](https://github.com/NaviJha/Leetcode_solutions/tree/master/1653-minimum-deletions-to-make-string-balanced) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1653-minimum-deletions-to-make-string-balanced](https://github.com/NaviJha/Leetcode_solutions/tree/master/1653-minimum-deletions-to-make-string-balanced) |
+## Stack
+|  |
+| ------- |
+| [1653-minimum-deletions-to-make-string-balanced](https://github.com/NaviJha/Leetcode_solutions/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 <!---LeetCode Topics End-->
