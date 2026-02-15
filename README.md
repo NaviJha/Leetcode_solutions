@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/NaviJha/Leetcode_solutions/tree/master/0067-add-binary) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/NaviJha/Leetcode_solutions/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 ## Doubly-Linked List
 |  |
@@ -66,9 +67,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/NaviJha/Leetcode_solutions/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/NaviJha/Leetcode_solutions/tree/master/0009-palindrome-number) |
+| [0067-add-binary](https://github.com/NaviJha/Leetcode_solutions/tree/master/0067-add-binary) |
 ## String
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/NaviJha/Leetcode_solutions/tree/master/0067-add-binary) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/NaviJha/Leetcode_solutions/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [3713-longest-balanced-substring-i](https://github.com/NaviJha/Leetcode_solutions/tree/master/3713-longest-balanced-substring-i) |
 ## Dynamic Programming
@@ -119,4 +122,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3713-longest-balanced-substring-i](https://github.com/NaviJha/Leetcode_solutions/tree/master/3713-longest-balanced-substring-i) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/NaviJha/Leetcode_solutions/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
