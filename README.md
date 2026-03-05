@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/NaviJha/Leetcode_solutions/tree/master/0189-rotate-array) |
 | [1200-minimum-absolute-difference](https://github.com/NaviJha/Leetcode_solutions/tree/master/1200-minimum-absolute-difference) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/NaviJha/Leetcode_solutions/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/NaviJha/Leetcode_solutions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/NaviJha/Leetcode_solutions/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/NaviJha/Leetcode_solutions/tree/master/0009-palindrome-number) |
 | [0067-add-binary](https://github.com/NaviJha/Leetcode_solutions/tree/master/0067-add-binary) |
+| [0189-rotate-array](https://github.com/NaviJha/Leetcode_solutions/tree/master/0189-rotate-array) |
 | [0509-fibonacci-number](https://github.com/NaviJha/Leetcode_solutions/tree/master/0509-fibonacci-number) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/NaviJha/Leetcode_solutions/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 ## String
@@ -153,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/NaviJha/Leetcode_solutions/tree/master/0125-valid-palindrome) |
+| [0189-rotate-array](https://github.com/NaviJha/Leetcode_solutions/tree/master/0189-rotate-array) |
 | [0696-count-binary-substrings](https://github.com/NaviJha/Leetcode_solutions/tree/master/0696-count-binary-substrings) |
 ## Recursion
 |  |
