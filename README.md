@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/NaviJha/Leetcode_solutions/tree/master/0013-roman-to-integer) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/NaviJha/Leetcode_solutions/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/NaviJha/Leetcode_solutions/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3713-longest-balanced-substring-i](https://github.com/NaviJha/Leetcode_solutions/tree/master/3713-longest-balanced-substring-i) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/NaviJha/Leetcode_solutions/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/NaviJha/Leetcode_solutions/tree/master/0009-palindrome-number) |
+| [0013-roman-to-integer](https://github.com/NaviJha/Leetcode_solutions/tree/master/0013-roman-to-integer) |
 | [0067-add-binary](https://github.com/NaviJha/Leetcode_solutions/tree/master/0067-add-binary) |
 | [0189-rotate-array](https://github.com/NaviJha/Leetcode_solutions/tree/master/0189-rotate-array) |
 | [0509-fibonacci-number](https://github.com/NaviJha/Leetcode_solutions/tree/master/0509-fibonacci-number) |
@@ -80,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/NaviJha/Leetcode_solutions/tree/master/0013-roman-to-integer) |
 | [0067-add-binary](https://github.com/NaviJha/Leetcode_solutions/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/NaviJha/Leetcode_solutions/tree/master/0125-valid-palindrome) |
 | [0696-count-binary-substrings](https://github.com/NaviJha/Leetcode_solutions/tree/master/0696-count-binary-substrings) |
