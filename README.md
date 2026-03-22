@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1200-minimum-absolute-difference](https://github.com/NaviJha/Leetcode_solutions/tree/master/1200-minimum-absolute-difference) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/NaviJha/Leetcode_solutions/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/NaviJha/Leetcode_solutions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+| [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/NaviJha/Leetcode_solutions/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1895-largest-magic-square](https://github.com/NaviJha/Leetcode_solutions/tree/master/1895-largest-magic-square) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/NaviJha/Leetcode_solutions/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/NaviJha/Leetcode_solutions/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/NaviJha/Leetcode_solutions/tree/master/0048-rotate-image) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/NaviJha/Leetcode_solutions/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
+| [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/NaviJha/Leetcode_solutions/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1895-largest-magic-square](https://github.com/NaviJha/Leetcode_solutions/tree/master/1895-largest-magic-square) |
 | [3643-flip-square-submatrix-vertically](https://github.com/NaviJha/Leetcode_solutions/tree/master/3643-flip-square-submatrix-vertically) |
 ## Prefix Sum
