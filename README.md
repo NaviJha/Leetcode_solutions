@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/NaviJha/Leetcode_solutions/tree/master/0048-rotate-image) |
 | [0136-single-number](https://github.com/NaviJha/Leetcode_solutions/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/NaviJha/Leetcode_solutions/tree/master/0189-rotate-array) |
 | [0485-max-consecutive-ones](https://github.com/NaviJha/Leetcode_solutions/tree/master/0485-max-consecutive-ones) |
@@ -19,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/NaviJha/Leetcode_solutions/tree/master/0048-rotate-image) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/NaviJha/Leetcode_solutions/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1895-largest-magic-square](https://github.com/NaviJha/Leetcode_solutions/tree/master/1895-largest-magic-square) |
 | [3643-flip-square-submatrix-vertically](https://github.com/NaviJha/Leetcode_solutions/tree/master/3643-flip-square-submatrix-vertically) |
@@ -77,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/NaviJha/Leetcode_solutions/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/NaviJha/Leetcode_solutions/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/NaviJha/Leetcode_solutions/tree/master/0013-roman-to-integer) |
+| [0048-rotate-image](https://github.com/NaviJha/Leetcode_solutions/tree/master/0048-rotate-image) |
 | [0067-add-binary](https://github.com/NaviJha/Leetcode_solutions/tree/master/0067-add-binary) |
 | [0189-rotate-array](https://github.com/NaviJha/Leetcode_solutions/tree/master/0189-rotate-array) |
 | [0509-fibonacci-number](https://github.com/NaviJha/Leetcode_solutions/tree/master/0509-fibonacci-number) |
