@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/NaviJha/Leetcode_solutions/tree/master/0048-rotate-image) |
 | [0075-sort-colors](https://github.com/NaviJha/Leetcode_solutions/tree/master/0075-sort-colors) |
 | [0136-single-number](https://github.com/NaviJha/Leetcode_solutions/tree/master/0136-single-number) |
+| [0169-majority-element](https://github.com/NaviJha/Leetcode_solutions/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/NaviJha/Leetcode_solutions/tree/master/0189-rotate-array) |
 | [0485-max-consecutive-ones](https://github.com/NaviJha/Leetcode_solutions/tree/master/0485-max-consecutive-ones) |
 | [1200-minimum-absolute-difference](https://github.com/NaviJha/Leetcode_solutions/tree/master/1200-minimum-absolute-difference) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/NaviJha/Leetcode_solutions/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/NaviJha/Leetcode_solutions/tree/master/0013-roman-to-integer) |
+| [0169-majority-element](https://github.com/NaviJha/Leetcode_solutions/tree/master/0169-majority-element) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/NaviJha/Leetcode_solutions/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/NaviJha/Leetcode_solutions/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3713-longest-balanced-substring-i](https://github.com/NaviJha/Leetcode_solutions/tree/master/3713-longest-balanced-substring-i) |
@@ -83,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/NaviJha/Leetcode_solutions/tree/master/0075-sort-colors) |
+| [0169-majority-element](https://github.com/NaviJha/Leetcode_solutions/tree/master/0169-majority-element) |
 | [1200-minimum-absolute-difference](https://github.com/NaviJha/Leetcode_solutions/tree/master/1200-minimum-absolute-difference) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/NaviJha/Leetcode_solutions/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 ## Math
@@ -136,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/NaviJha/Leetcode_solutions/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/NaviJha/Leetcode_solutions/tree/master/0190-reverse-bits) |
 | [1382-balance-a-binary-search-tree](https://github.com/NaviJha/Leetcode_solutions/tree/master/1382-balance-a-binary-search-tree) |
 | [3719-longest-balanced-subarray-i](https://github.com/NaviJha/Leetcode_solutions/tree/master/3719-longest-balanced-subarray-i) |
@@ -155,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/NaviJha/Leetcode_solutions/tree/master/0169-majority-element) |
 | [3713-longest-balanced-substring-i](https://github.com/NaviJha/Leetcode_solutions/tree/master/3713-longest-balanced-substring-i) |
 ## Enumeration
 |  |
