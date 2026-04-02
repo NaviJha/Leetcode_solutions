@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/NaviJha/Leetcode_solutions/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/NaviJha/Leetcode_solutions/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2906-construct-product-matrix](https://github.com/NaviJha/Leetcode_solutions/tree/master/2906-construct-product-matrix) |
+| [3418-maximum-amount-of-money-robot-can-earn](https://github.com/NaviJha/Leetcode_solutions/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/NaviJha/Leetcode_solutions/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3546-equal-sum-grid-partition-i](https://github.com/NaviJha/Leetcode_solutions/tree/master/3546-equal-sum-grid-partition-i) |
 | [3637-trionic-array-i](https://github.com/NaviJha/Leetcode_solutions/tree/master/3637-trionic-array-i) |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/NaviJha/Leetcode_solutions/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1895-largest-magic-square](https://github.com/NaviJha/Leetcode_solutions/tree/master/1895-largest-magic-square) |
 | [2906-construct-product-matrix](https://github.com/NaviJha/Leetcode_solutions/tree/master/2906-construct-product-matrix) |
+| [3418-maximum-amount-of-money-robot-can-earn](https://github.com/NaviJha/Leetcode_solutions/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3546-equal-sum-grid-partition-i](https://github.com/NaviJha/Leetcode_solutions/tree/master/3546-equal-sum-grid-partition-i) |
 | [3643-flip-square-submatrix-vertically](https://github.com/NaviJha/Leetcode_solutions/tree/master/3643-flip-square-submatrix-vertically) |
 ## Prefix Sum
@@ -124,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/NaviJha/Leetcode_solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0509-fibonacci-number](https://github.com/NaviJha/Leetcode_solutions/tree/master/0509-fibonacci-number) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/NaviJha/Leetcode_solutions/tree/master/1653-minimum-deletions-to-make-string-balanced) |
+| [3418-maximum-amount-of-money-robot-can-earn](https://github.com/NaviJha/Leetcode_solutions/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 ## Stack
 |  |
 | ------- |
