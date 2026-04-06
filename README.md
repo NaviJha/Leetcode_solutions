@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/NaviJha/Leetcode_solutions/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/NaviJha/Leetcode_solutions/tree/master/0189-rotate-array) |
 | [0485-max-consecutive-ones](https://github.com/NaviJha/Leetcode_solutions/tree/master/0485-max-consecutive-ones) |
+| [0874-walking-robot-simulation](https://github.com/NaviJha/Leetcode_solutions/tree/master/0874-walking-robot-simulation) |
 | [1200-minimum-absolute-difference](https://github.com/NaviJha/Leetcode_solutions/tree/master/1200-minimum-absolute-difference) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/NaviJha/Leetcode_solutions/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/NaviJha/Leetcode_solutions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/NaviJha/Leetcode_solutions/tree/master/0013-roman-to-integer) |
 | [0073-set-matrix-zeroes](https://github.com/NaviJha/Leetcode_solutions/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/NaviJha/Leetcode_solutions/tree/master/0169-majority-element) |
+| [0874-walking-robot-simulation](https://github.com/NaviJha/Leetcode_solutions/tree/master/0874-walking-robot-simulation) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/NaviJha/Leetcode_solutions/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/NaviJha/Leetcode_solutions/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3713-longest-balanced-substring-i](https://github.com/NaviJha/Leetcode_solutions/tree/master/3713-longest-balanced-substring-i) |
@@ -76,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/NaviJha/Leetcode_solutions/tree/master/0067-add-binary) |
 | [0657-robot-return-to-origin](https://github.com/NaviJha/Leetcode_solutions/tree/master/0657-robot-return-to-origin) |
+| [0874-walking-robot-simulation](https://github.com/NaviJha/Leetcode_solutions/tree/master/0874-walking-robot-simulation) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/NaviJha/Leetcode_solutions/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/NaviJha/Leetcode_solutions/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/NaviJha/Leetcode_solutions/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
