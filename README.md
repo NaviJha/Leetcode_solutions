@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/NaviJha/Leetcode_solutions/tree/master/0001-two-sum) |
 | [0048-rotate-image](https://github.com/NaviJha/Leetcode_solutions/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/NaviJha/Leetcode_solutions/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/NaviJha/Leetcode_solutions/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/NaviJha/Leetcode_solutions/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/NaviJha/Leetcode_solutions/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/NaviJha/Leetcode_solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/NaviJha/Leetcode_solutions/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/NaviJha/Leetcode_solutions/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/NaviJha/Leetcode_solutions/tree/master/0073-set-matrix-zeroes) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/NaviJha/Leetcode_solutions/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/NaviJha/Leetcode_solutions/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
@@ -77,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/NaviJha/Leetcode_solutions/tree/master/0054-spiral-matrix) |
 | [0067-add-binary](https://github.com/NaviJha/Leetcode_solutions/tree/master/0067-add-binary) |
 | [0657-robot-return-to-origin](https://github.com/NaviJha/Leetcode_solutions/tree/master/0657-robot-return-to-origin) |
 | [0874-walking-robot-simulation](https://github.com/NaviJha/Leetcode_solutions/tree/master/0874-walking-robot-simulation) |
