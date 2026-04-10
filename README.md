@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3643-flip-square-submatrix-vertically](https://github.com/NaviJha/Leetcode_solutions/tree/master/3643-flip-square-submatrix-vertically) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/NaviJha/Leetcode_solutions/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3719-longest-balanced-subarray-i](https://github.com/NaviJha/Leetcode_solutions/tree/master/3719-longest-balanced-subarray-i) |
+| [3740-minimum-distance-between-three-equal-elements-i](https://github.com/NaviJha/Leetcode_solutions/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 ## Matrix
 |  |
 | ------- |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/NaviJha/Leetcode_solutions/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3713-longest-balanced-substring-i](https://github.com/NaviJha/Leetcode_solutions/tree/master/3713-longest-balanced-substring-i) |
 | [3719-longest-balanced-subarray-i](https://github.com/NaviJha/Leetcode_solutions/tree/master/3719-longest-balanced-subarray-i) |
+| [3740-minimum-distance-between-three-equal-elements-i](https://github.com/NaviJha/Leetcode_solutions/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 ## Linked List
 |  |
 | ------- |
