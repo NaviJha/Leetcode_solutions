@@ -132,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/NaviJha/Leetcode_solutions/tree/master/0509-fibonacci-number) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/NaviJha/Leetcode_solutions/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/NaviJha/Leetcode_solutions/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
+| [3783-mirror-distance-of-an-integer](https://github.com/NaviJha/Leetcode_solutions/tree/master/3783-mirror-distance-of-an-integer) |
 ## String
 |  |
 | ------- |
