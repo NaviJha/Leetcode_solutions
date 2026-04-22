@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1895-largest-magic-square](https://github.com/NaviJha/Leetcode_solutions/tree/master/1895-largest-magic-square) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/NaviJha/Leetcode_solutions/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/NaviJha/Leetcode_solutions/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2452-words-within-two-edits-of-dictionary](https://github.com/NaviJha/Leetcode_solutions/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/NaviJha/Leetcode_solutions/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2906-construct-product-matrix](https://github.com/NaviJha/Leetcode_solutions/tree/master/2906-construct-product-matrix) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/NaviJha/Leetcode_solutions/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/NaviJha/Leetcode_solutions/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/NaviJha/Leetcode_solutions/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/NaviJha/Leetcode_solutions/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
+| [2452-words-within-two-edits-of-dictionary](https://github.com/NaviJha/Leetcode_solutions/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/NaviJha/Leetcode_solutions/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/NaviJha/Leetcode_solutions/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 | [3713-longest-balanced-substring-i](https://github.com/NaviJha/Leetcode_solutions/tree/master/3713-longest-balanced-substring-i) |
@@ -251,4 +253,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/NaviJha/Leetcode_solutions/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
+## Trie
+|  |
+| ------- |
+| [2452-words-within-two-edits-of-dictionary](https://github.com/NaviJha/Leetcode_solutions/tree/master/2452-words-within-two-edits-of-dictionary) |
 <!---LeetCode Topics End-->
