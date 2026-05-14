@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2149-rearrange-array-elements-by-sign](https://github.com/NaviJha/Leetcode_solutions/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/NaviJha/Leetcode_solutions/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/NaviJha/Leetcode_solutions/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
+| [2784-check-if-array-is-good](https://github.com/NaviJha/Leetcode_solutions/tree/master/2784-check-if-array-is-good) |
 | [2906-construct-product-matrix](https://github.com/NaviJha/Leetcode_solutions/tree/master/2906-construct-product-matrix) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/NaviJha/Leetcode_solutions/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/NaviJha/Leetcode_solutions/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/NaviJha/Leetcode_solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0874-walking-robot-simulation](https://github.com/NaviJha/Leetcode_solutions/tree/master/0874-walking-robot-simulation) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/NaviJha/Leetcode_solutions/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
+| [2784-check-if-array-is-good](https://github.com/NaviJha/Leetcode_solutions/tree/master/2784-check-if-array-is-good) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/NaviJha/Leetcode_solutions/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3713-longest-balanced-substring-i](https://github.com/NaviJha/Leetcode_solutions/tree/master/3713-longest-balanced-substring-i) |
 | [3719-longest-balanced-subarray-i](https://github.com/NaviJha/Leetcode_solutions/tree/master/3719-longest-balanced-subarray-i) |
@@ -120,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/NaviJha/Leetcode_solutions/tree/master/0169-majority-element) |
 | [1200-minimum-absolute-difference](https://github.com/NaviJha/Leetcode_solutions/tree/master/1200-minimum-absolute-difference) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/NaviJha/Leetcode_solutions/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
+| [2784-check-if-array-is-good](https://github.com/NaviJha/Leetcode_solutions/tree/master/2784-check-if-array-is-good) |
 ## Math
 |  |
 | ------- |
