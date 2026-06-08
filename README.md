@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/NaviJha/Leetcode_solutions/tree/master/0015-3sum) |
 | [0027-remove-element](https://github.com/NaviJha/Leetcode_solutions/tree/master/0027-remove-element) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/NaviJha/Leetcode_solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0035-search-insert-position](https://github.com/NaviJha/Leetcode_solutions/tree/master/0035-search-insert-position) |
 | [0048-rotate-image](https://github.com/NaviJha/Leetcode_solutions/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/NaviJha/Leetcode_solutions/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/NaviJha/Leetcode_solutions/tree/master/0054-spiral-matrix) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/NaviJha/Leetcode_solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0035-search-insert-position](https://github.com/NaviJha/Leetcode_solutions/tree/master/0035-search-insert-position) |
 | [0704-binary-search](https://github.com/NaviJha/Leetcode_solutions/tree/master/0704-binary-search) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/NaviJha/Leetcode_solutions/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 ## Hash Table
