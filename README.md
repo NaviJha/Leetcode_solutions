@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3637-trionic-array-i](https://github.com/NaviJha/Leetcode_solutions/tree/master/3637-trionic-array-i) |
 | [3643-flip-square-submatrix-vertically](https://github.com/NaviJha/Leetcode_solutions/tree/master/3643-flip-square-submatrix-vertically) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/NaviJha/Leetcode_solutions/tree/master/3653-xor-after-range-multiplication-queries-i) |
+| [3689-maximum-total-subarray-value-i](https://github.com/NaviJha/Leetcode_solutions/tree/master/3689-maximum-total-subarray-value-i) |
 | [3719-longest-balanced-subarray-i](https://github.com/NaviJha/Leetcode_solutions/tree/master/3719-longest-balanced-subarray-i) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/NaviJha/Leetcode_solutions/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/NaviJha/Leetcode_solutions/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
@@ -213,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1382-balance-a-binary-search-tree](https://github.com/NaviJha/Leetcode_solutions/tree/master/1382-balance-a-binary-search-tree) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/NaviJha/Leetcode_solutions/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/NaviJha/Leetcode_solutions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+| [3689-maximum-total-subarray-value-i](https://github.com/NaviJha/Leetcode_solutions/tree/master/3689-maximum-total-subarray-value-i) |
 ## Binary Search Tree
 |  |
 | ------- |
