@@ -190,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/NaviJha/Leetcode_solutions/tree/master/0189-rotate-array) |
 | [0509-fibonacci-number](https://github.com/NaviJha/Leetcode_solutions/tree/master/0509-fibonacci-number) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/NaviJha/Leetcode_solutions/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/NaviJha/Leetcode_solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/NaviJha/Leetcode_solutions/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3783-mirror-distance-of-an-integer](https://github.com/NaviJha/Leetcode_solutions/tree/master/3783-mirror-distance-of-an-integer) |
 ## String
@@ -375,4 +376,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1833-maximum-ice-cream-bars](https://github.com/NaviJha/Leetcode_solutions/tree/master/1833-maximum-ice-cream-bars) |
+## Number Theory
+|  |
+| ------- |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/NaviJha/Leetcode_solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
 <!---LeetCode Topics End-->
